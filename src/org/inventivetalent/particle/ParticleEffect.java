@@ -47,9 +47,9 @@ import static org.inventivetalent.reflection.minecraft.Minecraft.Version.*;
 
 public enum ParticleEffect {
 	//TODO fallingdust
-	//New in 1.12
-	TOTEM("totem", v1_12_R1),
-	SPIT("spit"),
+	//New in 1.11
+	TOTEM("totem", v1_11_R1),
+	SPIT("spit", v1_11_R1),
 	
 	//* Made by inventivetalent *
 	EXPLOSION_NORMAL("explode"),
