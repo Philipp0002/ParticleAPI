@@ -42,7 +42,7 @@ import java.util.Collection;
 @Deprecated
 public enum ParticleEffect {
 
-	// == Support for 1.7 Implementation ==
+	// == Support for 1.7 Implementation ===
 	HUGE_EXPLOSION("hugeexplosion", "EXPLOSION_HUGE"),
 	LARGE_EXPLODE("largeexplode", "EXPLOSION_LARGE"),
 	BUBBLE("bubble", "WATER_BUBBLE"),
